@@ -8,14 +8,13 @@
   <a href="https://npmjs.com/package/vite"><img src="https://img.shields.io/npm/v/vite.svg" alt="npm package"></a>
   <a href="https://nodejs.org/en/about/previous-releases"><img src="https://img.shields.io/node/v/vite.svg" alt="node compatibility"></a>
   <a href="https://github.com/vitejs/vite/actions/workflows/ci.yml"><img src="https://github.com/vitejs/vite/actions/workflows/ci.yml/badge.svg?branch=main" alt="build status"></a>
-  <a href="https://pr.new/vitejs/vite"><img src="https://developer.stackblitz.com/img/start_pr_dark_small.svg" alt="Start new PR in StackBlitz Codeflow"></a>
-  <a href="https://chat.vitejs.dev"><img src="https://img.shields.io/badge/chat-discord-blue?style=flat&logo=discord" alt="discord chat"></a>
+  <a href="https://vercel.com/"><img src="https://camo.githubusercontent.com/3d2a91a5351c0c82c6f2c828ff848e1eff5fb27fcca2a45f4904742323e92956/68747470733a2f2f6465706c6f792d62616467652e76657263656c2e6170702f76657263656c2f6465706c6f792d6261646765" alt="deployed"></a> 
 </p>
 <br/>
 
 ## Google Cloud Storage File Upload
 
-This is a HTML, SCSS, TypeScript project bootstrapped with # Vite ⚡.
+This is a HTML, SCSS, TypeScript project bootstrapped with #Vite ⚡.
 
 > Next Generation Frontend Tooling
 
@@ -43,8 +42,8 @@ pnpm i
 
 3. Start your project by running the following command:
 
-# development
 ```bash
+# development
 $ npm run dev
 # or
 $ yarn dev
@@ -52,8 +51,8 @@ $ yarn dev
 $ pnpm dev
 ```
 
-# production mode
 ```bash
+# production mode
 $ npm run start
 # or
 $ yarn start
